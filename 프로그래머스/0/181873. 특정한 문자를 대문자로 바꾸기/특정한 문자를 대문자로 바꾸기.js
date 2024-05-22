@@ -1,0 +1,4 @@
+function solution(my_string, alp) {
+    var answer = my_string.replaceAll(alp,alp.toUpperCase());
+    return answer;
+}
