@@ -1,2 +1,6 @@
-# Algorithm-js
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Algorithm
+---
+알고리즘 개인 공부 저장소
+
+코딩 테스트 준비를 위해 공부한 코드들이 저장되어 있습니다.
+모든 문제 풀이는 JS로 풀어져 있습니다.
